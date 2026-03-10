@@ -1,0 +1,6 @@
+.env
+public
+node_modules
+usuarios
+views
+pruebas.rest
